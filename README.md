@@ -1,7 +1,7 @@
 # X-Nav-Practica-Parkings
 Practica final de la asignatura de Aplicaciones Telemáticas
 
-[Try me!](https://amorenogar.github.io/X-Nav-Practica-Socios/)
+[Try me!](https://amorenogar.github.io/X-Nav-Practica-Parkings/)
 
 ## Sobre mi:
 
