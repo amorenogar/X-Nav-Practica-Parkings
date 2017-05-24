@@ -1,0 +1,42 @@
+<article class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+          <br>
+          <!-- TAB -->
+          <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#home">PRNCIPAL</a></li>
+            <li><a data-toggle="tab" href="#menu1">Gestión de Colecciones</a></li>
+            <li><a data-toggle="tab" href="#menu2">Gestión de Instalaciones</a></li>
+          </ul>
+          <!-- datos dentro del tab -->
+          <div class="tab-content">
+            <div id="home" class="tab-pane fade in active">
+              <h3> Aquí va el mapa:</h3>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class=" col-md-9">
+                    <img src="http://lorempixel.com/1200/400/" class="img-responsive img-thumbnail">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="menu1" class="tab-pane fade">
+              <h3>Gestión de Colecciones:</h3>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class=" col-md-9">
+                    <img src="http://lorempixel.com/1202/400/" class="img-responsive img-thumbnail">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="menu2" class="tab-pane fade">
+              <h3>Gestión de Instalaciones:</h3>
+              <div class="container-fluid">
+                <div class="row">
+                  <div class=" col-md-9">
+                    <img src="http://lorempixel.com/1201/400/" class="img-responsive" img-thumbnail>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
