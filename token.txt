@@ -1,3 +1,0 @@
-GitHub-User:	amorenogar
-GitHub-Repo:	X-Nav-Practica-Parkings
-GitHub-Token:	cbbab9691f1b5b78a0cc9cf85da3689f9992b233
